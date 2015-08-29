@@ -7,6 +7,7 @@ body{
 	height: auto;
 	overflow: hidden;
 	margin: 0 auto;
+	padding-bottom: 250px;
 }
 #container *{
 	box-sizing: border-box;
@@ -42,6 +43,7 @@ body{
 	width: 100%;
 	height: auto;
 	overflow: hidden;
+	margin-top: 50px;
 }
 #container .cont h2{
 	margin: 0;
@@ -97,14 +99,22 @@ body{
 #container .cont .grafico .graf{
 	height: auto;
 	min-width: 200px;
-	height: 300px;
+	height: auto;
+	overflow: hidden;
 	background-color: #D9DADB;
 	margin-top: -70px;
 	padding-top: 80px;
+	padding-bottom: 50px;
+	text-align: center;
 }
 #container .cont .grafico .graf .chart{
 	max-width: 1260px;
-	margin: 0 auto;
+	margin: 0 auto 50px;
+	/*width: 48%;
+	display: inline-block;*/
+}
+#container .cont .grafico .graf .chart rect{
+	fill: transparent;
 }
 #container .cont .ct_tooltip{
 	max-width: 1260px;
