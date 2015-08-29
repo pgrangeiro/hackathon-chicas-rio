@@ -1,0 +1,49 @@
+body{
+	margin: 0;
+}
+#container{
+	width: 100%;
+	max-width: 1260px;
+	height: auto;
+	overflow: hidden;
+}
+#container *{
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+}
+#container #topo{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+#container #topo img{
+	width: 100%;
+}
+#container #titulo{
+	max-width: 715px;
+	padding: 0 10px;
+	margin: 0 auto;
+}
+#container #titulo h1{
+	font: 80px/80px 'Gill Sans', Arial, tahoma;
+	color: #111211;
+	text-align: center;
+	margin: 100px 0 20px;
+}
+#container #titulo p{
+	font: 20px/25px 'Gill Sans', Arial, tahoma;
+	color: #58585A;
+	text-align: center;
+}
+#container .cont{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+#container .cont h2{
+	margin: 0;
+	font: bold 28px/28px 'Gill Sans', Arial, tahoma;
+	color: #007AC0;
+	text-transform: uppercase;
+}
