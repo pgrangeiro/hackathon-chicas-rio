@@ -74,8 +74,12 @@ body{
 	text-align: center;
 	margin: 0 auto;
 }
-#container #video{
+#container #video, #container #timeline{
 	margin-top: 80px;
+}
+#container #timeline div {
+    height: 620px;
+	margin-bottom: 80px;
 }
 #container .cont #graficos{
 	width: 100%;
