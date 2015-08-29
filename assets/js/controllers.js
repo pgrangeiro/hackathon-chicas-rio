@@ -1,6 +1,9 @@
-$(function(){
-	var service = new AthletesService();
+$(document).ready(function(){
 
-	console.log(service.getData());
+    var athletesService = new AthletesService();
+    var resultsService = new ResultsService();
 
+    athletesService.getData().then(function(result) {
+        console.log(result);
+    });
 });
