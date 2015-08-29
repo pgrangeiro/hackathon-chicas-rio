@@ -1,18 +1,184 @@
 Year,Gender,Discipline,Event,Class,TeamID,Name,Fname,Ctry,Medal,G
-1988PG,m,NULL,100 m,B2,1,Riberio,Elmo,BRA,NULL,m
-1988PG,m,NULL,100 m,B2,2,Asbury,Andre,USA,S,m
-1988PG,m,NULL,100 m,B2,3,Miguel,Anghuerta San,MEX,NULL,m
-1988PG,m,NULL,100 m,B2,4,Osmon,James,USA,NULL,m
-1988PG,m,NULL,100 m,B2,5,Zhang,Yang,CHN,NULL,m
-1988PG,m,NULL,100 m,B2,6,Collins,Darren,AUS,NULL,m
-1988PG,m,NULL,100 m,B2,7,Prall,Kurt,AUT,NULL,m
-1988PG,m,NULL,100 m,B2,8,Lee,Jae Woon,KOR,NULL,m
-1988PG,m,NULL,100 m,B2,9,Mokhir,Alexandre,URS,G,m
-1988PG,m,NULL,100 m,B2,10,Paz,Marcelino,ESP,B,m
-1988PG,f,NULL,100 m,B2,1,Yo,Choon Ja,KOR,NULL,f
-1988PG,f,NULL,100 m,B2,2,Rauh,Christine,FRG,NULL,f
-1988PG,f,NULL,100 m,B2,3,Vance,Amanda,USA,NULL,f
-1988PG,f,NULL,100 m,B2,4,Jouravliova,Raissa,URS,G,f
-1988PG,f,NULL,100 m,B2,5,Santos,Adria,BRA,S,f
-1988PG,f,NULL,100 m,B2,6,Batalova,Rimma,URS,B,f
-1988PG,f,NULL,100 m,B2,7,Toppan,Susy,ITA,NULL,f
+2000PG,f,NULL,Shot Put,F58,1,Santos Ferreira,Roseane,BRA,G,f
+2000PG,f,NULL,Shot Put,F58,2,Jaballah,Khadija,TUN,S,f
+2000PG,f,NULL,Shot Put,F58,3,Omar,Mervat,EGY,B,f
+2000PG,f,NULL,Shot Put,F58,4,Nzuruike,Edith,NGR,NULL,f
+2000PG,f,NULL,Shot Put,F58,5,Montazeri,Fatemeh,IRI,NULL,f
+2000PG,f,NULL,Shot Put,F58,6,Abdin,Zakia,EGY,NULL,f
+2000PG,f,NULL,Shot Put,F58,7,Ali,Wafaa,KUW,NULL,f
+2000PG,f,NULL,Shot Put,F58,8,Kuong,Sio Ieng,MAC,NULL,f
+2000PG,f,NULL,Discus,F58,1,Santos Ferreira,Roseane,BRA,G,f
+2000PG,f,NULL,Discus,F58,2,Jaballah,Khadija,TUN,S,f
+2000PG,f,NULL,Discus,F58,3,Feleifal,Karima,EGY,B,f
+2000PG,f,NULL,Discus,F58,4,Buggenhagen,Marianne,GER,NULL,f
+2000PG,f,NULL,Discus,F58,5,Omar,Mervat,EGY,NULL,f
+2000PG,f,NULL,Discus,F58,6,Olang,Rose Atieno,KEN,NULL,f
+2000PG,f,NULL,Discus,F58,7,Grant,Sylvia,JAM,NULL,f
+2000PG,f,NULL,Discus,F58,8,Nzuruike,Edith,NGR,NULL,f
+2000PG,f,NULL,Discus,F58,9,Morrison,Coleen,JAM,NULL,f
+2000PG,f,NULL,Discus,F58,10,Holt,Lynda,AUS,NULL,f
+2000PG,f,NULL,Discus,F58,11,Willing,Martina,GER,NULL,f
+2000PG,f,NULL,Discus,F58,12,Guimaraes,Suely,BRA,NULL,f
+2000PG,f,NULL,Discus,F58,13,Koleva,Ivanka,BUL,NULL,f
+2000PG,f,NULL,Discus,F58,14,Carlton,Kathryne Lynne,USA,NULL,f
+2000PG,f,NULL,Discus,F58,15,Chiodi,Ana Maria,ARG,NULL,f
+2004PG,f,NULL,Shot Put,F56-58,1,Medjmedj,Nadia,ALG,G,f
+2004PG,f,NULL,Shot Put,F56-58,2,Li,Ling,CHN,S,f
+2004PG,f,NULL,Shot Put,F56-58,3,Willing,Martina,GER,B,f
+2004PG,f,NULL,Shot Put,F56-58,4,Iyiazi,Njideka E.,NGR,NULL,f
+2004PG,f,NULL,Shot Put,F56-58,5,Rosales,Catalina,MEX,NULL,f
+2004PG,f,NULL,Shot Put,F56-58,6,Koleva,Ivanka,BUL,NULL,f
+2004PG,f,NULL,Shot Put,F56-58,7,Djelal,Sofia,ALG,NULL,f
+2004PG,f,NULL,Shot Put,F56-58,8,Santos,Roseane,BRA,NULL,f
+2004PG,f,NULL,Shot Put,F56-58,9,Guimaraes,Suely,BRA,NULL,f
+2004PG,f,NULL,Shot Put,F56-58,10,Zakayo,Mary N.,KEN,NULL,f
+2004PG,f,NULL,Shot Put,F56-58,11,Chen,Fang,CHN,NULL,f
+2004PG,f,NULL,Shot Put,F56-58,12,Montazeri,Fatemeh,IRI,NULL,f
+2004PG,f,NULL,Shot Put,F56-58,13,Aleman,Leticia,MEX,NULL,f
+2004PG,f,NULL,Shot Put,F56-58,14,Castro,Araceli,MEX,NULL,f
+2004PG,f,NULL,Shot Put,F56-58,15,Chepkoech,Phelomena,KEN,NULL,f
+2004PG,f,NULL,Shot Put,F56-58,16,Muza,Moline,ZIM,NULL,f
+2004PG,f,NULL,Shot Put,F56-58,17,Tuinfort,Melaica S.,SUR,NULL,f
+2004PG,f,NULL,Discus,F56-58,1,Guimaraes,Suely,BRA,G,f
+2004PG,f,NULL,Discus,F56-58,2,Li,Ling,CHN,S,f
+2004PG,f,NULL,Discus,F56-58,3,Khodayari,Azam,IRI,B,f
+2004PG,f,NULL,Discus,F56-58,4,Willing,Martina,GER,NULL,f
+2004PG,f,NULL,Discus,F56-58,5,Medjmedj,Nadia,ALG,NULL,f
+2004PG,f,NULL,Discus,F56-58,6,Santos,Roseane,BRA,NULL,f
+2004PG,f,NULL,Discus,F56-58,7,Feleifal,Karima,EGY,NULL,f
+2004PG,f,NULL,Discus,F56-58,8,Chen,Fang,CHN,NULL,f
+2004PG,f,NULL,Discus,F56-58,9,Koleva,Ivanka,BUL,NULL,f
+2004PG,f,NULL,Discus,F56-58,10,Iyiazi,Njideka E.,NGR,NULL,f
+2004PG,f,NULL,Discus,F56-58,11,Grant,Sylvia,JAM,NULL,f
+2004PG,f,NULL,Discus,F56-58,12,Abd Ellatif,Shaimaa,EGY,NULL,f
+2004PG,f,NULL,Discus,F56-58,13,Djelal,Sofia,ALG,NULL,f
+2004PG,f,NULL,Discus,F56-58,14,Rosales,Catalina,MEX,NULL,f
+2004PG,f,NULL,Discus,F56-58,15,Chepkoech,Phelomena,KEN,NULL,f
+2004PG,f,NULL,Discus,F56-58,16,Saucedo,Veronica,MEX,NULL,f
+2004PG,f,NULL,Discus,F56-58,17,Vaa,Meira,SAM,NULL,f
+2004PG,f,NULL,Discus,F56-58,18,Zakayo,Mary N.,KEN,NULL,f
+2004PG,f,NULL,Discus,F56-58,19,Montazeri,Fatemeh,IRI,NULL,f
+2006WCH1,f,NULL,Shot Put,F58,1,Eneva,Stela,BUL,G,f
+2006WCH1,f,NULL,Shot Put,F58,2,Djelal,Sofia,ALG,S,f
+2006WCH1,f,NULL,Shot Put,F58,3,Santos,Roseane,BRA,B,f
+2006WCH1,f,NULL,Shot Put,F58,4,Rosales,Catalina,MEX,NULL,f
+2006WCH1,f,NULL,Shot Put,F58,5,Saifi,Nassima,ALG,NULL,f
+2006WCH1,f,NULL,Shot Put,F58,6,Velasco,Jeny,MEX,NULL,f
+2006WCH1,f,NULL,Shot Put,F58,7,Chen,Fang,CHN,NULL,f
+2006WCH1,f,NULL,Shot Put,F58,8,Nakhumicha,Mary,KEN,NULL,f
+2006WCH1,f,NULL,Discus,F58,1,Eneva,Stela,BUL,G,f
+2006WCH1,f,NULL,Discus,F58,2,Santos,Roseane,BRA,S,f
+2006WCH1,f,NULL,Discus,F58,3,Chen,Fang,CHN,B,f
+2006WCH1,f,NULL,Discus,F58,4,Djelal,Sofia,ALG,NULL,f
+2006WCH1,f,NULL,Discus,F58,5,Saifi,Nassima,ALG,NULL,f
+2006WCH1,f,NULL,Discus,F58,6,Rosales,Catalina,MEX,NULL,f
+2006WCH1,f,NULL,Discus,F58,7,Morrison,Coleen,JAM,NULL,f
+2006WCH1,f,NULL,Discus,F58,8,Soudani,Mariem,TUN,NULL,f
+2006WCH1,f,NULL,Discus,F58,9,Nakhumicha,Mary,KEN,NULL,f
+2006WCH1,f,NULL,Discus,F58,10,Bernal,Floralia,MEX,NULL,f
+2002WCH1,f,NULL,Shot Put,F58,1,Rosales,Catalina,MEX,G,f
+2002WCH1,f,NULL,Shot Put,F58,2,Santos,Roseane,BRA,S,f
+2002WCH1,f,NULL,Shot Put,F58,3,Montazerighahjavrest,Fatem,IRI,B,f
+2002WCH1,f,NULL,Shot Put,F58,4,Abdin,Zakia Abd Elrah,EGY,NULL,f
+2002WCH1,f,NULL,Shot Put,F58,5,Morrison,Coleen,JAM,NULL,f
+2002WCH1,f,NULL,Discus,F58,1,Feleifal,Karima Zaki Ahmed,EGY,G,f
+2002WCH1,f,NULL,Discus,F58,2,Elbehiry,Asmaa Abd Elhak,EGY,S,f
+2002WCH1,f,NULL,Discus,F58,3,Santos,Roseane,BRA,B,f
+2002WCH1,f,NULL,Discus,F58,4,Rosales,Catalina,MEX,NULL,f
+2002WCH1,f,NULL,Discus,F58,5,Montazerighahjavrest,Fatem,IRI,NULL,f
+2002WCH1,f,NULL,Discus,F58,6,Morrison,Coleen,JAM,NULL,f
+2002WCH1,f,NULL,Discus,F58,7,Djelal,Sofia,ALG,NULL,f
+1998WCH1,f,NULL,Shot Put,F58,1,Omar,Mervat,EGY,G,f
+1998WCH1,f,NULL,Shot Put,F58,2,Jaballah,Khadija,TUN,S,f
+1998WCH1,f,NULL,Shot Put,F58,3,Huerlimann,Susy,SUI,B,f
+1998WCH1,f,NULL,Shot Put,F58,4,Abdin,Zakia,EGY,NULL,f
+1998WCH1,f,NULL,Shot Put,F58,5,Feleifal,Karima,EGY,NULL,f
+1998WCH1,f,NULL,Shot Put,F58,6,Thabet,Masouda,TUN,NULL,f
+1998WCH1,f,NULL,Shot Put,F58,7,Essid,Essia,TUN,NULL,f
+1998WCH1,f,NULL,Shot Put,F58,8,Juarez,Jacqueline,MEX,NULL,f
+1998WCH1,f,NULL,Shot Put,F58,9,Ruznjak,Mirjana,CRO,NULL,f
+1998WCH1,f,NULL,Discus,F58,1,Jaballah,Khadija,TUN,G,f
+1998WCH1,f,NULL,Discus,F58,2,Feleifal,Karima,EGY,S,f
+1998WCH1,f,NULL,Discus,F58,3,Omar,Mervat,EGY,B,f
+1998WCH1,f,NULL,Discus,F58,4,Thabet,Masouda,TUN,NULL,f
+1998WCH1,f,NULL,Discus,F58,5,Santos,Roseane,BRA,NULL,f
+1998WCH1,f,NULL,Discus,F58,6,Huerlimann,Susy,SUI,NULL,f
+1998WCH1,f,NULL,Discus,F58,7,Koleva,Ivanka,BUL,NULL,f
+1998WCH1,f,NULL,Discus,F58,8,Morrison,Coleen,JAM,NULL,f
+1998WCH1,f,NULL,Discus,F58,9,Essid,Essia,TUN,NULL,f
+1998WCH1,f,NULL,Discus,F58,10,Ruznjak,Mirjana,CRO,NULL,f
+1998WCH1,f,NULL,Discus,F58,11,Juarez,Jacqueline,MEX,NULL,f
+2003PAG,f,NULL,Shot Put,F57-58,1,Rosales,Catalina,MEX,G,f
+2003PAG,f,NULL,Shot Put,F57-58,2,Santos,Roseane,BRA,S,f
+2003PAG,f,NULL,Shot Put,F57-58,3,Castro,Araceli,MEX,B,f
+2003PAG,f,NULL,Shot Put,F57-58,4,Rojas,Pacesa,BOL,NULL,f
+2003PAG,f,NULL,Shot Put,F57-58,5,Cullen,Morrison,JAM,NULL,f
+2003PAG,f,NULL,Discus,F58,1,Santos,Roseane,BRA,G,f
+2003PAG,f,NULL,Discus,F58,2,Rosales,Catalina,MEX,S,f
+2003PAG,f,NULL,Discus,F58,3,Castro,Araceli,MEX,B,f
+2003PAG,f,NULL,Discus,F58,4,Morrison,Coleen,JAM,NULL,f
+2008PG,f,NULL,Shot Put,F57/58,1,Iyiazi,Eucharia Njideka,NGR,G,f
+2008PG,f,NULL,Shot Put,F57/58,2,Ortiz,Angeles,MEX,S,f
+2008PG,f,NULL,Shot Put,F57/58,3,Medjemedj,Nadia,ALG,B,f
+2008PG,f,NULL,Shot Put,F57/58,4,Eneva,Stela,BUL,NULL,f
+2008PG,f,NULL,Shot Put,F57/58,5,Rosales,Catalina,MEX,NULL,f
+2008PG,f,NULL,Shot Put,F57/58,6,Koleva,Ivanka,BUL,NULL,f
+2008PG,f,NULL,Shot Put,F57/58,7,Santos,Roseane,BRA,NULL,f
+2008PG,f,NULL,Shot Put,F57/58,8,Montazeri Ghahjaverestani,Fatemeh,IRI,NULL,f
+2008PG,f,NULL,Shot Put,F57/58,9,Djelal,Safia,ALG,NULL,f
+2008PG,f,NULL,Shot Put,F57/58,10,Saifi,Nassima,ALG,NULL,f
+2008PG,f,NULL,Shot Put,F57/58,11,Sergienko,Olga,RUS,NULL,f
+2008PG,f,NULL,Shot Put,F57/58,12,Nguyen,Thi Hai,VIE,NULL,f
+2008PG,f,NULL,Shot Put,F57/58,13,Muza,Moline,ZIM,NULL,f
+2008PG,f,NULL,Shot Put,F57/58,14,Kuong,Sio Ieng,MAC,NULL,f
+2008PG,f,NULL,Discus ,F57/58,1,Iyiazi,Eucharia Njideka,NGR,G,f
+2008PG,f,NULL,Discus ,F57/58,2,Eneva,Stela,BUL,S,f
+2008PG,f,NULL,Discus ,F57/58,3,Medjemedj,Nadia,ALG,B,f
+2008PG,f,NULL,Discus ,F57/58,4,Saifi,Nassima,ALG,NULL,f
+2008PG,f,NULL,Discus ,F57/58,5,Barry,Orla,IRL,NULL,f
+2008PG,f,NULL,Discus ,F57/58,6,Soudani,Mariem,TUN,NULL,f
+2008PG,f,NULL,Discus ,F57/58,7,Santos,Roseane,BRA,NULL,f
+2008PG,f,NULL,Discus ,F57/58,8,Montazeri Ghahjaverestani,Fatemeh,IRI,NULL,f
+2008PG,f,NULL,Discus ,F57/58,9,Nguyen,Thi Hai,VIE,NULL,f
+2008PG,f,NULL,Discus ,F57/58,10,Koleva,Ivanka,BUL,NULL,f
+2008PG,f,NULL,Discus ,F57/58,11,Rosales,Catalina,MEX,NULL,f
+2008PG,f,NULL,Discus ,F57/58,12,Grant,Sylvia,JAM,NULL,f
+2008PG,f,NULL,Discus ,F57/58,13,Al Hajaj,Tharwh,JOR,NULL,f
+2008PG,f,NULL,Discus ,F57/58,14,Kuong,Sio Ieng,MAC,NULL,f
+2012PG,f,NULL,Discus,F57/58,2893,Saifi,Nassima,ALG,G,f
+2012PG,f,NULL,Discus,F57/58,2054,Eneva,Stela,BUL,S,f
+2012PG,f,NULL,Discus,F57/58,1767,Barry,Orla,IRL,B,f
+2012PG,f,NULL,Discus,F57/58,2587,Medjmedj,Nadia,ALG,NULL,f
+2012PG,f,NULL,Discus,F57/58,17456,Nwaozuzu,Grace,NGR,NULL,f
+2012PG,f,NULL,Discus,F57/58,14827,Volik,Larisa,RUS,NULL,f
+2012PG,f,NULL,Discus,F57/58,8194,Alrasheedy,Siham,UAE,NULL,f
+2012PG,f,NULL,Discus,F57/58,2406,Koleva,Ivanka,BUL,NULL,f
+2012PG,f,NULL,Discus,F57/58,17306,Wyludda,Ilke,GER,NULL,f
+2012PG,f,NULL,Discus,F57/58,12451,Liu,Ming,CHN,NULL,f
+2012PG,f,NULL,Discus,F57/58,2692,Nguyen,Thi Hai,VIE,NULL,f
+2012PG,f,NULL,Discus,F57/58,2874,Rosales Montiel,Catalina,MEX,NULL,f
+2012PG,f,NULL,Discus,F57/58,17443,Iyiazi,Eucharia,NGR,NULL,f
+2012PG,f,NULL,Discus,F57/58,15003,Abdullayeva,Madinat,AZE,NULL,f
+2012PG,f,NULL,Discus,F57/58,2673,Zakayo,Mary Nakhumicha,KEN,NULL,f
+2012PG,f,NULL,Discus,F57/58,11404,Tuitavake,Evelyne,FRA,NULL,f
+2012PG,f,NULL,Discus,F57/58,16579,Mibamba Kimbata,Dedeline,COD,NULL,f
+2012PG,f,NULL,Discus,F57/58,12450,Li,Ling,CHN,NULL,f
+2012PG,f,NULL,Shot Put,F57/58,2743,Ortiz Hernandez,Angeles,MEX,G,f
+2012PG,f,NULL,Shot Put,F57/58,2054,Eneva,Stela,BUL,S,f
+2012PG,f,NULL,Shot Put,F57/58,17443,Iyiazi,Eucharia,NGR,B,f
+2012PG,f,NULL,Shot Put,F57/58,2005,Djelal,Safia,ALG,NULL,f
+2012PG,f,NULL,Shot Put,F57/58,17306,Wyludda,Ilke,GER,NULL,f
+2012PG,f,NULL,Shot Put,F57/58,14827,Volik,Larisa,RUS,NULL,f
+2012PG,f,NULL,Shot Put,F57/58,2893,Saifi,Nassima,ALG,NULL,f
+2012PG,f,NULL,Shot Put,F57/58,2874,Rosales Montiel,Catalina,MEX,NULL,f
+2012PG,f,NULL,Shot Put,F57/58,2406,Koleva,Ivanka,BUL,NULL,f
+2012PG,f,NULL,Shot Put,F57/58,12450,Li,Ling,CHN,NULL,f
+2012PG,f,NULL,Shot Put,F57/58,11404,Tuitavake,Evelyne,FRA,NULL,f
+2012PG,f,NULL,Shot Put,F57/58,2964,Sergienko,Olga,RUS,NULL,f
+2012PG,f,NULL,Shot Put,F57/58,2673,Zakayo,Mary Nakhumicha,KEN,NULL,f
+2012PG,f,NULL,Shot Put,F57/58,17456,Nwaozuzu,Grace,NGR,NULL,f
+2012PG,f,NULL,Shot Put,F57/58,18006,Saohaga,Hellen Glenda,SOL,NULL,f
+2012PG,f,NULL,Shot Put,F57/58,16967,Jean Louis,Nephtalie,HAI,NULL,f
+2012PG,f,NULL,Shot Put,F57/58,16423,Mutale,Rhodah,ZAM,NULL,f
+2012PG,f,NULL,Shot Put,F57/58,15003,Abdullayeva,Madinat,AZE,NULL,f
+2012PG,f,NULL,Shot Put,F57/58,2587,Medjmedj,Nadia,ALG,NULL,f

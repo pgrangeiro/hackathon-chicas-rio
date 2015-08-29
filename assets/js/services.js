@@ -14,7 +14,10 @@ var AthletesService = function() {
 
     this.init = function() {
        this.setData();
-    }
+    };
+
+    this.init();
+
 };
 
 
@@ -35,4 +38,6 @@ var ResultsService = function() {
     this.init = function() {
        this.setData();
     }
+
+    this.init();
 };
