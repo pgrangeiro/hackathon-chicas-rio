@@ -1,0 +1,164 @@
+body{
+	margin: 0;
+}
+#container{
+	width: 100%;
+	/*max-width: 1260px;*/
+	height: auto;
+	overflow: hidden;
+	margin: 0 auto;
+}
+#container *{
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+}
+#container #topo{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+#container #topo img{
+	width: 100%;
+    background-color: #0a6e9d;
+}
+#container #titulo{
+	max-width: 715px;
+	padding: 0 10px;
+	margin: 0 auto 100px;
+}
+#container #titulo h1{
+	font: 80px/80px 'Gill Sans', Arial, tahoma;
+	color: #111211;
+	text-align: center;
+	margin: 100px 0 20px;
+}
+#container #titulo p{
+	font: 20px/25px 'Gill Sans', Arial, tahoma;
+	color: #58585A;
+	text-align: center;
+}
+#container .cont{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+#container .cont h2{
+	margin: 0;
+	font: bold 28px/30px 'Gill Sans', Arial, tahoma;
+	color: #CD2725;
+	text-transform: uppercase;
+	text-align: center;
+}
+#container .cont h2.tit_maior{
+	padding: 0 20px 20px;
+	background: transparent url(../imgs/barra-tit-maior.png) center bottom no-repeat;
+	background-size: contain;
+	width: auto;
+	display: table;
+	margin: 0 auto 10px;
+}
+#container .cont h2.tit_menor{
+	padding: 0 20px 20px;
+	background: transparent url(../imgs/barra-tit-menor.png) center bottom no-repeat;
+	background-size: contain;
+	width: auto;
+	display: table;
+	margin: 0 auto 10px;
+}
+#container .cont p.explicacao{
+	max-width: 555px;
+	padding: 0 10px;
+	font: 18px/22px 'Gill Sans', Arial, tahoma;
+	color: #58585A;
+	text-align: center;
+	margin: 0 auto;
+}
+#container #video, #container #timeline{
+	margin-top: 80px;
+}
+#container #timeline div {
+    height: 620px;
+	margin-bottom: 80px;
+}
+#container .cont #graficos{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+#container .cont .grafico{
+	position: relative;
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	/*padding-top: 120px;*/
+	margin-top: 20px;
+}
+#container .cont .grafico .graf{
+	height: auto;
+	min-width: 200px;
+	height: 300px;
+	background-color: #D9DADB;
+	margin-top: -70px;
+	padding-top: 80px;
+}
+#container .cont .grafico .graf .chart{
+	max-width: 1260px;
+	margin: 0 auto;
+}
+#container .cont .ct_tooltip{
+	max-width: 1260px;
+	height: auto;
+	overflow: hidden;
+	position: relative;
+	margin: 0 auto;
+	padding: 20px;
+}
+#container .cont .ct_tooltip .tooltip{
+	-webkit-box-shadow: 0px 0px 20px 0px rgba(145, 145, 145, 0.5);
+	-moz-box-shadow:    0px 0px 20px 0px rgba(145, 145, 145, 0.5);
+	box-shadow:         0px 0px 20px 0px rgba(145, 145, 145, 0.5);
+	background-color: #fff;
+	/*position: absolute;
+	top: 20px;
+	left: 40px;*/
+	width: 310px;
+	height: auto;
+	padding: 15px;
+}
+#container .cont .ct_tooltip .tooltip .txt{
+	font: 18px/20px 'Gill Sans', Arial, tahoma;
+	color: #111211;
+}
+#container .cont .ct_tooltip .tooltip .txt.bold{
+	font-weight: bold;
+}
+#container .cont .ct_tooltip .tooltip #ct_barra{
+	height: 22px;
+	width: 100%;
+	border-left: 1px solid #818181;
+	border-right: 1px solid #818181;
+	padding-top: 4px;
+	margin-top: 15px;
+}
+#container .cont .ct_tooltip .tooltip #ct_barra #barra{
+	width: 100%;
+	background-color: #D9DADB;
+	height: 15px;
+	position: relative;
+}
+#container .cont .ct_tooltip .tooltip #ct_barra #barra #valor{
+	width: 20%;
+	position: absolute;
+	left: 0;
+	top: 0;
+	height: 15px;
+	background-color: #CD2725;
+	transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-webkit-transition: all 0.5s ease;
+}
+
+
+
+
