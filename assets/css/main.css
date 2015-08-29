@@ -20,6 +20,7 @@ body{
 }
 #container #topo img{
 	width: 100%;
+    background-color: #0a6e9d;
 }
 #container #titulo{
 	max-width: 715px;
@@ -70,7 +71,7 @@ body{
 	padding: 0 10px;
 	font: 18px/22px 'Gill Sans', Arial, tahoma;
 	color: #58585A;
-	text-align: center; 
+	text-align: center;
 	margin: 0 auto;
 }
 #container #video{
@@ -149,9 +150,9 @@ body{
 	top: 0;
 	height: 15px;
 	background-color: #CD2725;
-	transition: all 0.5s ease; 
-	-moz-transition: all 0.5s ease; 
-	-webkit-transition: all 0.5s ease; 
+	transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-webkit-transition: all 0.5s ease;
 }
 
 
