@@ -1,23 +1,38 @@
 var AthletesService = function() {
-    //TODO recuperar dados da planilha de atletas
     var url = "assets/data/athlets.csv";
+    var data;
 
-    this.getData = function() {
-        $.get(url, function(response) {
-            var csv = $.parseJSON(csvToJson(response));
-            return csv;
+    this.setData = function() {
+        $.get(url, function(){}).success(function(response){
+            data = $.parseJSON(csvToJson(response));
         });
     };
 
+    this.getData = function() {
+       return data;
+    };
+
+    this.init = function() {
+       this.setData();
+    }
 };
 
-var ResultsService = function() {
-    //TODO recuperar dados da planilha de resultados
-    var url = "assets/data/results.csv";
 
-    this.getData = function() {
-        getToJson(url, function(data) {
-            return data;
+var ResultsService = function() {
+    var url = "assets/data/results.csv";
+    var data;
+
+    this.setData = function() {
+        $.get(url, function(){}).success(function(response){
+            data = $.parseJSON(csvToJson(response));
         });
     };
+
+    this.getData = function() {
+       return data;
+    };
+
+    this.init = function() {
+       this.setData();
+    }
 };
