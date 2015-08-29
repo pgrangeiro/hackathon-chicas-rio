@@ -6,8 +6,9 @@
 	<link rel="stylesheet" href="assets/css/main.css">
 	<script type="text/javascript" src="assets/js/jquery-1.11.3.min.js"></script>
 	<script type="text/javascript" src="assets/js/json2.js"></script>
-	<script type="text/javascript" src="assets/js/controllers.js"></script>
+	<script type="text/javascript" src="assets/js/highcharts.js"></script>
 	<script type="text/javascript" src="assets/js/services.js"></script>
+	<script type="text/javascript" src="assets/js/controllers.js"></script>
 </head>
 <body>
 
@@ -31,7 +32,7 @@
         </div>
 	</div>
 	<div class="cont">
-		<h2 class="tit_maior">Duração dos recordes</h2>
+		<h2 class="tit_maior">Arremesso de pesos</h2>
 		<p class="explicacao">
 			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque rerum nemo labore expedita! Dolorem explicabo voluptas impedit minima commodi quo eum atque libero consequatur laudantium aspernatur, totam dolorum soluta! Distinctio.
 		</p>
@@ -57,23 +58,52 @@
 
 				</div>
 				<div class="graf">
-					<div class="chart">
-
-					</div>
+					<div class="chart" id="chart1"></div>
 				</div>
 			</div>
 
-			<!-- <div id="grafico_peso" class="grafico">
-				<div class="tooltip">
-
-				</div>
-			</div> -->
 
 
 		</div>
 
 	</div>
 
+	<div class="cont">
+		<h2 class="tit_maior">Lançamento de discos</h2>
+		<p class="explicacao">
+			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque rerum nemo labore expedita! Dolorem explicabo voluptas impedit minima commodi quo eum atque libero consequatur laudantium aspernatur, totam dolorum soluta! Distinctio.
+		</p>
+		<div id="graficos">
+			<div id="grafico_disco" class="grafico">
+
+				<div class="ct_tooltip">
+
+					<div class="tooltip">
+						<div id="nome" class="txt bold">
+							Roseane Ferreira dos Santos
+						</div>
+						<div id="nacionalidade" class="txt">Brasileira</div>
+						<div id="olimpiada" class="txt">Olimpiada de 1992</div>
+						<div id="recorde" class="txt">Recorde: 31,53 metros</div>
+						<div id="ct_barra">
+							<div id="barra">
+								<div id="valor"></div>
+							</div>
+						</div>
+
+					</div>
+
+				</div>
+				<div class="graf">
+					<div class="chart" id="chart2"></div>
+				</div>
+			</div>
+
+
+
+		</div>
+
+	</div>
 </div>
 
 </body>
